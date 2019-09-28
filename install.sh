@@ -93,10 +93,10 @@ sleep 1
 clear
 echo
 echo $pur"==================="$cy" ============================="
-echo $i"Ôûê"$pu"  AUTHOR  :  WisnuSaputra"$i"                    Ôûê"
-echo $i"Ôûê"$pu"  WhatsApp:  085718945758"$i"                Ôûê"
-echo $i"Ôûê"$pu"  GMAIL   :  cyberin356@gmail.com  "$i"      Ôûê"
-echo $i"Ôûê"$pu"  TEAM    :  BERMUDA-CYBER-TEAM"$i"                Ôûê"
+echo $i"  ="$pu"  AUTHOR  :  WisnuSaputra"$i"                  ="
+echo $i"  ="$pu"  WhatsApp:  085718945758"$i"                  ="
+echo $i"  ="$pu"  GMAIL   :  cyberin356@gmail.com  "$i"        ="
+echo $i"  ="$pu"  TEAM    :  BERMUDA-CYBER-TEAM"$i"            ="
 echo $pur"==================="$cy" ============================="
 echo
 echo $cy"MeNu BRUTEPORCE NeWS:"
@@ -115,8 +115,8 @@ echo $ku"["$me"12"$ku"]"$i" LACAK LOKASI"
 echo $ku"["$me"13"$ku"]"$i" SPAM SMS BRUTAL TERBARU"
 echo $i"["$me"14"$i"]"$ku" EXIT"
 echo
-echo $pur"Ôò¡ÔöÇ["$pur"Pilih Nomer By#wisnu"$pur"]"
-read -p"Ôò¦ÔöÇ>> " pil
+echo $pur">>>["$pur"Pilih Nomer By#wisnu"$pur"]"
+read -p"  >>> " pil
 
 if [ $pil = 1 ]
 then
