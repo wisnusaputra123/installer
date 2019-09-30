@@ -189,7 +189,7 @@ figlet -f slant "W A I T"|lolcat
 sleep 1
 git clone https://github.com/wisnusaputra123/fb-guard
 cd fb-guard
-python2 guard.py
+php guard.php
 fi
 
 if [ $pil = 8 ]
